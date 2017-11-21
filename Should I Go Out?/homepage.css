@@ -1,0 +1,139 @@
+/* General styling */
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    >}
+a{
+    text-decoration:none;
+    color: goldenrod;
+}
+
+
+/* Nav styling */
+
+.nav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.nav li {
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  display: inline-block;
+  padding: 0 20px;
+}
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+  padding: 0 5px;
+}
+.nav a:hover {
+  background-color: darkgrey;
+}
+.nav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+
+/* club buttons */
+
+.title {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: darkgreen;
+    background-color: white;
+    font-size: 25px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-decoration: none;
+}
+ 
+
+.club1 { 
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    font-size: 25px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-decoration: none;
+}
+a.link{
+    text-decoration: none;
+}
+a.visited{
+    text-decoration:none;
+}
+    
+
+.club2 {
+    width: 100%;
+    height: 90px;
+    text-align: center;
+    color: darkgreen;
+    background-color: white;
+    font-size: 25px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-decoration: none;
+}
+
+.club3 {
+    width: 100%;
+    height: 90px;
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-decoration: none;
+}
+
+.club4 {
+    width: 100%;
+    text-align: center;
+    color: darkgreen;
+    background-color: white;
+    font-size: 30px;
+    padding-top: 70px;
+    padding-bottom: 60px;
+    text-decoration: none;
+}
+
+.club5 {
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-decoration: none;
+}
+
+.club6 {
+    width: 100%;
+    text-align: center;
+    color: darkgreen;
+    background-color: white;
+    font-size: 27px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+

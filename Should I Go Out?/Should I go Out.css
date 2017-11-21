@@ -1,0 +1,316 @@
+/* General styling */
+html,
+body {
+    background-color: darkgreen;
+    width: 100%;
+    height: 140%;
+    margin: 0;
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    >}
+
+
+
+
+/* Nav styling */
+
+.nav ul {
+  background-color: #444;
+  text-align: center;
+  margin: 0;
+}
+.nav li {
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  display: inline-block;
+  padding: 0 20px;
+}
+.nav a {
+  text-decoration: none;
+  color: #fff;
+
+  transition: .3s background-color;
+  padding: 0 5px;
+}
+.nav a:hover {
+  background-color: grey;
+}
+.nav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+
+/* club buttons */
+
+.title {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: darkgreen;
+    background-color: white;
+    font-size: 1.2em;
+    padding-top: 70px;
+    padding-bottom: 70px
+}
+ 
+
+.club1 { 
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    font-size: 1.2em;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+
+.club2 {
+    width: 100%;
+    height: 90px;
+    text-align: center;
+    color: darkgreen;
+    background-color: white;
+    font-size: 1.5em;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.club3 {
+    width: 100%;
+    height: 90px;
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    font-size: 1.5em;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.club4 {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: darkgreen;
+    background-color: darkgreen;
+    font-size: 1.2em;
+}
+
+.club5 {
+    width: 100%;
+    height: 00px;
+    text-align: center;
+    color: darkgreen;
+    background-color: darkgreen;
+    font-size: 1.2em;
+}
+
+/* quiz */
+
+h1 {1
+    margin: 0;
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    
+}
+
+
+
+.btnmon {
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 80px;
+    background-color: slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btntues {
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    background-color: slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btnwed {
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    background-color:slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btnthurs {
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    background-color: slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btnfri {
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    background-color: slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btnsat {
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    background-color: slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btnsun {
+    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    background-color: slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btn1{
+    color: #fff;
+    background-color: slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 25px 100px;
+    text-decoration: none;
+    margin-left: 250px;
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+}
+
+.btn2{
+    color: #fff;
+    background-color: slategrey;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 25px 100px;
+    text-decoration: none;
+    margin-left: 760px;
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+}
+    /* clubpages */ 
+
+.clubtitle{
+    
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    color: goldenrod;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    font-size: 20px;
+    padding-top: 70px;
+}
+
+.entry {
+    width: 100%;
+    height: 100px;
+    text-align: left;
+    color: darkgreen;
+    background-color: white;
+    font-size: 1.2em;
+    padding-top: 20px
+}
+        
+        
+        .closingtime {
+            width: 100%; 
+            height:100px;  
+            text-align: left;
+            color: white;
+            background-color: darkgreen;
+            font-size: 1.2em;
+            padding-top: 20px;
+            padding-bottom: 0px;
+          
+            
+    }
+
+ .drinks {
+            width: 100%; 
+            height:200px;
+            text-align: left;
+            color: darkgreen;
+            background-color: white;
+            font-size: 1.2em;
+            padding-top: 50px;
+            padding-bottom: 0px;
+          
+            
+    }
+
+.tips {
+            width: 100%; 
+            height:200px;
+            text-align: left;
+            color: white;
+            background-color: darkgreen;
+            font-size: 1.2em;
+            padding-top: 70px;
+            padding-bottom: 0px;
+          
+            
+    }
+    
+.img {
+    z-index: 105;
+    position:fixed;
+    bottom: 100px;
+    right: 100px;
+    }
+    
+.clubtitle{
+    background:url(Clubs/Clubbig.jpg);
+    background-position: center;
+}
+
+
+
+        
